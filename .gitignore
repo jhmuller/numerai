@@ -1,3 +1,5 @@
 *.napi
 *.csv
 *.zip
+datadir/
+.ipynb-checkpoints/
